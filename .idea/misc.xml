@@ -4,10 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Documents/Programacion/Kotlin/Cupcake/app/src/main/res/layout/activity_main.xml" value="0.2617753623188406" />
-        <entry key="..\:/Documents/Programacion/Kotlin/Cupcake/app/src/main/res/layout/fragment_flavor.xml" value="0.5" />
+        <entry key="..\:/Documents/Programacion/Kotlin/Cupcake/app/src/main/res/layout/fragment_flavor.xml" value="0.1" />
         <entry key="..\:/Documents/Programacion/Kotlin/Cupcake/app/src/main/res/layout/fragment_pickup.xml" value="0.1" />
         <entry key="..\:/Documents/Programacion/Kotlin/Cupcake/app/src/main/res/layout/fragment_start.xml" value="0.1" />
-        <entry key="..\:/Documents/Programacion/Kotlin/Cupcake/app/src/main/res/layout/fragment_summary.xml" value="0.36666666666666664" />
+        <entry key="..\:/Documents/Programacion/Kotlin/Cupcake/app/src/main/res/layout/fragment_summary.xml" value="0.1" />
       </map>
     </option>
   </component>
